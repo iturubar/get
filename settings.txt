@@ -1,0 +1,2 @@
+Average frequency: 24.388042300494885
+Quant step: 0.012890625V
